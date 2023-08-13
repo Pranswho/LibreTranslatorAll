@@ -1,4 +1,4 @@
-# LibreTranslatorGerman
+# Libre Translator
 Translate a PDF file from English to German, French, Spanish, Portuguese. 
 
 A basic translator which uses tkinter to ask the user for a PDF document to be translated from English to 4 different languages.
